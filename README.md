@@ -35,8 +35,8 @@ I'm an entry-level Django developer based in Kathmandu, Nepal. I recently comple
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=radium" alt="Ranish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=radium" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=radium" alt="Ranish's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=radium" alt="Top Languages" />
 </div>
 
 ---
