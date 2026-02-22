@@ -24,25 +24,9 @@
 
 ---
 
-### 🚀 Featured Projects
-
-* [cite_start]📚 **[Library Management System](https://github.com/ranishbhattarai/library-management)**: Built with Django, REST API, DjangoRestFramework, and SQLite[cite: 27, 28].
-* [cite_start]🛒 **[Advance E-commerce Platform](https://github.com/ranishbhattarai/ecommersetask)**: Built using Django, Tailwind CSS, REST API, SQLite, HTML5, and CSS3[cite: 30, 31].
-* [cite_start]🔗 **[Shorten URL](https://github.com/ranishbhattarai/short_url)**: URL shortener built with Django, Tailwind CSS, REST API, SQLite, and HTML5[cite: 32, 33].
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
-  [cite_start]<img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=radium" alt="Ranish's GitHub Stats" /> [cite: 4]
-  [cite_start]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=radium" alt="Top Languages" /> [cite: 4]
+  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=radium" alt="Ranish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=radium" alt="Top Languages" />
 </div>
-
----
-
-### 📫 Let's Connect!
-
-* [cite_start]**LinkedIn:** [linkedin.com/in/ranish-bhattarai-53a27a242/](https://www.linkedin.com/in/ranish-bhattarai-53a27a242/) [cite: 4]
-* [cite_start]**GitHub:** [github.com/ranishbhattarai](https://github.com/ranishbhattarai) [cite: 4]
-* [cite_start]**Email:** [ranishbhattarai490@gmail.com](mailto:ranishbhattarai490@gmail.com) [cite: 3]
