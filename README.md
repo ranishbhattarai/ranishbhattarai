@@ -8,7 +8,7 @@ I'm an entry-level Django developer based in Kathmandu, Nepal. I recently comple
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently building backend projects like a **Library Management System** and an **Advance E-commerce Platform**.
+* 🔭 I’m currently building and devloping backend and APi's projects at NovaNext as a Django Devloper Intern
 * 🌱 I’m currently pursuing my **Bachelor of Science in Computer Science and Information Technology (Bsc. CSIT)**.
 * 💬 Ask me about **Python, Django, REST APIs, and building backend systems**.
 * 📫 How to reach me: You can email me at **ranishbhattarai490@gmail.com**.
