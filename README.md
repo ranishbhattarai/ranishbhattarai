@@ -59,9 +59,9 @@ I want to become a strong full-stack developer who can design and build useful s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&count_private=true" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&theme=tokyonight&layout=compact" />
 
 </div>
 
