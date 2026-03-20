@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ranish Bhattarai</h1>
-<h3 align="center">Aspiring Developer from Nepal 🇳🇵</h3>
-
 <p align="center">
-I enjoy building practical web applications that solve real problems.<br>
-My current focus is on backend development with <b>Django</b> and <b>Django REST Framework</b>, 
-I like working on systems, APIs, and product ideas that combine functionality with a clean user experience.
+  <img src="assets/banner.png" width="100%" />
 </p>
 
 ---
