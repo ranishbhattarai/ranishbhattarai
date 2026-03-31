@@ -52,13 +52,8 @@ I want to become a strong full-stack developer who can design and build useful s
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&count_private=true" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&theme=tokyonight&layout=compact" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
