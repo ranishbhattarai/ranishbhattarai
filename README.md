@@ -4,28 +4,33 @@
 
 ---
 
+## 🚀 Backend Engineer | Django & DRF
+
+Building scalable backend systems with clean architecture, service-layer design, and production-ready APIs.
+
+---
+
 ## 💫 About Me
 
-- 💻 Focused on building real-world web applications
-- 🐍 Working actively with **Python**, **Django**, and **Django REST Framework**
-- 🛠️ Interested in backend logic, APIs, database design, and system architecture
-- 🚀 I enjoy turning project ideas into working products
-- 🌱 Always learning by building
+- 💻 Backend-focused developer specializing in **Django & Django REST Framework**
+- 🧠 Strong interest in **system design, database modeling, and API architecture**
+- 🏗️ Currently building real-world systems like:
+  - Restaurant Management System (RMS)
+  - HRMS module with modular architecture
+- ⚡ Focused on writing **clean, maintainable, and scalable code**
 
 ---
 
----
+## 🧠 Current Focus
 
-## 🧠 Current Learning Path
-
-- Building cleaner and better-organized **Django/DRF projects**
-- Improving API design and backend architecture
-- Learning how frontend and backend connect in full-stack applications
-
+- Designing **modular DRF architectures (service layer pattern)**
+- Optimizing **database queries & performance**
+- Building **production-ready backend systems**
+- Moving toward **full-stack (React / Next.js)**
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🚀 Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -38,21 +43,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🗄️ Database / Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Goals
-
-I want to become a strong full-stack developer who can design and build useful systems — from database structures and APIs to front-end interfaces and complete, user-focused products.
-
----
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ranish GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -68,29 +70,23 @@ I want to become a strong full-stack developer who can design and build useful s
 ## 🐍 Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ranishbhattarai/ranishbhattarai/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ranishbhattarai/ranishbhattarai/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ranishbhattarai/ranishbhattarai/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ranishbhattarai/ranishbhattarai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ranishbhattarai/ranishbhattarai/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ranishbhattarai/ranishbhattarai/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
 
 ## 🤝 Let’s Connect
 
-I’m interested in collaboration, learning, and building meaningful web projects.
-
-- 📫 Email: ranishbhattarai4@gmail.com
+- 📫 Email: ranishbhattarai4@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ranish-bhattarai-53a27a242/
 
 ---
 
 <p align="center">
-Thanks for visiting my profile ✨
+  Thanks for visiting my profile ✨
 </p>
