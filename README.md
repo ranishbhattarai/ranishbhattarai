@@ -52,10 +52,6 @@ Building scalable backend systems with clean architecture, service-layer design,
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ranishbhattarai&theme=tokyonight&hide_border=true"/>
