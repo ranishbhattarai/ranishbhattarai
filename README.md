@@ -52,7 +52,7 @@ I want to become a strong full-stack developer who can design and build useful s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ranish GitHub stats" />
 </p>
 
 <p align="center">
