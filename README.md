@@ -49,11 +49,19 @@
 I want to become a strong full-stack developer who can design and build useful systems — from database structures and APIs to front-end interfaces and complete, user-focused products.
 
 ---
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=ranishbhattarai&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranishbhattarai&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ranishbhattarai&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranishbhattarai&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
